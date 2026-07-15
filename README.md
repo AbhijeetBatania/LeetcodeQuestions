@@ -50,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
