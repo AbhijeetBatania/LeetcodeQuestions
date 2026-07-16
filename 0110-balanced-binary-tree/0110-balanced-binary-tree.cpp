@@ -1,22 +1,22 @@
 class Solution {
 public:
-    int height(TreeNode* root , bool & diameter) {
+    int height(TreeNode* root , bool & balanced) {
         if (root == nullptr)
             return 0;
 
-        int left = height(root->left, diameter);
-        int right = height(root->right, diameter);
+        int left = height(root->left, balanced);
+        int right = height(root->right, balanced);
 
         if(abs(left - right) > 1){
-            diameter = false;
+            balanced = false;
         }
 
         return 1 + max(left, right);
     }
     bool isBalanced(TreeNode* root) {
         if(root == NULL) return true;
-        bool diameter = true;
-        height(root, diameter);
-        return diameter;
+        bool balanced = true;
+        height(root, balanced);
+        return balanced;
     }
 };
