@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
+| [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
