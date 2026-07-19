@@ -1,0 +1,36 @@
+//Approach-1 (Using string as a stack)
+//T.C : O(n) - We visit each character only once (Note that an element once popped from result is never put back)
+//S.C : O(1)
+class Solution {
+public:
+    string smallestSubsequence(string s) {
+        int n = s.length();
+        string result;
+        
+        vector<bool> taken(26, false); //O(1) space
+        vector<int> lastIndex(26); //O(1) space
+        
+        for(int i = 0; i < n; i++) {         
+            lastIndex[s[i]-'a'] = i;
+        }
+        
+        
+        for(int i = 0; i < n; i++) {
+            
+            int idx = s[i] - 'a';
+            
+            if(taken[idx] == true) continue;
+            
+            while(result.length() > 0 && result.back() > s[i] && lastIndex[result.back() - 'a'] > i) {
+                taken[result.back() - 'a'] = false;
+                result.pop_back();
+            }
+            
+            result.push_back(s[i]);
+            taken[idx] = true;
+            
+        }
+        
+        return result;
+    }
+};
