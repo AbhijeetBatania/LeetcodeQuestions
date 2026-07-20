@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0006-zigzag-conversion) |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
