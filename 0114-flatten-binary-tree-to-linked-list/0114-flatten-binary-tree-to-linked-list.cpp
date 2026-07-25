@@ -1,32 +1,19 @@
 class Solution {
 public:
-    TreeNode* head = NULL;
-    TreeNode* tail = NULL;
+    TreeNode* prev = NULL;
 
     void solve(TreeNode* root) {
-        if (root == NULL)
-            return;
+        if (root == NULL) return;
 
-        TreeNode* node = new TreeNode(root->val);
-
-        if (head == NULL) {
-            head = node;
-            tail = node;
-        } else {
-            tail->right = node;
-            tail = node;
-        }
-
-        solve(root->left);
         solve(root->right);
+        solve(root->left);
+
+        root->right = prev;
+        root->left = NULL;
+        prev = root;
     }
 
     void flatten(TreeNode* root) {
         solve(root);
-
-        if (head != NULL) {
-            root->left = NULL;
-            root->right = head->right;
-        }
     }
 };
