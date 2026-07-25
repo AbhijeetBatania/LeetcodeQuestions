@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
