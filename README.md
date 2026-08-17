@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Stack
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
