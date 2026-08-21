@@ -1,20 +1,20 @@
 class Solution {
 public:
-    int t[101];
-    int solve(vector<int>& nums, int i, int& n) {
-        if(i >= n) return 0;
-        
-        if(t[i] != -1) return t[i];
-        
-        int take = nums[i] + solve(nums, i+2, n); //steals ith house and moves to i+2 (because we can't steal adjacent)
-        int skip = solve(nums, i+1, n); //skips this house, now we can move to adjacent next house
-        
-        return t[i]=max(take, skip);
-    }
-    
     int rob(vector<int>& nums) {
         int n = nums.size();
-        memset(t, -1, sizeof(t));
-        return solve(nums, 0, n);
+        if(n==1) return nums[0];
+
+        vector<int> dp(n+1 , 0);
+        // dp[i] = max stolen money till house i
+        dp[0] = 0;
+        dp[1] = nums[0];
+
+        for(int i =2 ; i <= n ; i++){
+            int steal = nums[i-1] + dp[i-2];
+            int skip = dp[i-1];
+
+            dp[i] = max(steal, skip);
+        }
+        return dp[n];
     }
 };
