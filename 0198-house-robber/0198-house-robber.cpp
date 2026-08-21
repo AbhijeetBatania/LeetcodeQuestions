@@ -4,17 +4,18 @@ public:
         int n = nums.size();
         if(n==1) return nums[0];
 
-        vector<int> dp(n+1 , 0);
-        // dp[i] = max stolen money till house i
-        dp[0] = 0;
-        dp[1] = nums[0];
+        int prevPrev = 0;
+        int prev = nums[0];
 
         for(int i =2 ; i <= n ; i++){
-            int steal = nums[i-1] + dp[i-2];
-            int skip = dp[i-1];
+            int steal = nums[i-1] + prevPrev;
+            int skip = prev;
 
-            dp[i] = max(steal, skip);
+            int temp = max(steal, skip);
+
+            prevPrev = prev;
+            prev = temp;
         }
-        return dp[n];
+        return prev;
     }
 };
