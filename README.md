@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0006-zigzag-conversion) |
+| [0072-edit-distance](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0409-longest-palindrome) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0198-house-robber) |
