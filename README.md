@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 ## Prefix Sum
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
