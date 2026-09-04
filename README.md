@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
