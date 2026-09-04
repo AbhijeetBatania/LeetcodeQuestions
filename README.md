@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3903-smallest-stable-index-i) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
