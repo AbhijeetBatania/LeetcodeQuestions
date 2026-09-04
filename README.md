@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0409-longest-palindrome](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
+| [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3903-smallest-stable-index-i) |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
