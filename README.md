@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
