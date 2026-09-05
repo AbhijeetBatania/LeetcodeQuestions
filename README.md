@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
