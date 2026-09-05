@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
@@ -275,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
