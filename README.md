@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0836-rectangle-overlap) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
