@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int idx;
+
+    TreeNode* build(vector<int>& preorder, int bound) {
+        if (idx == preorder.size() || preorder[idx] > bound)
+            return NULL;
+
+        TreeNode* root = new TreeNode(preorder[idx++]);
+
+        root->left = build(preorder, root->val);
+        root->right = build(preorder, bound);
+
+        return root;
+    }
+
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        idx = 0;
+        return build(preorder, INT_MAX);
+    }
+};
