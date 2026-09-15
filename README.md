@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1143-longest-common-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
