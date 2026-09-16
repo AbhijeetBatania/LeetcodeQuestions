@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3903-smallest-stable-index-i) |
 ## Manacher
 |  |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
