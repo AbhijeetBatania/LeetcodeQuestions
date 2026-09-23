@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3903-smallest-stable-index-i) |
 ## Manacher
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
