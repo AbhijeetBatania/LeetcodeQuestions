@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/3483-unique-3-digit-even-numbers) |
