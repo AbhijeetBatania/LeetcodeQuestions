@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1096-brace-expansion-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AbhijeetBatania/LeetcodeQuestions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
